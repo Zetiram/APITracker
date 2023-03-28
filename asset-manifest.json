@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/APITracker/static/css/main.af041410.css",
-    "main.js": "/APITracker/static/js/main.c09bceee.js",
+    "main.js": "/APITracker/static/js/main.ca380eeb.js",
     "static/js/787.c8674b56.chunk.js": "/APITracker/static/js/787.c8674b56.chunk.js",
     "static/media/pattern-bg.png": "/APITracker/static/media/pattern-bg.a60a3c85aa8b88aac4b7.png",
     "static/media/logo.svg": "/APITracker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
@@ -9,11 +9,11 @@
     "static/media/icon-location.svg": "/APITracker/static/media/icon-location.7e6459d2a9278295ae782e100965be4b.svg",
     "static/media/icon-arrow.svg": "/APITracker/static/media/icon-arrow.2eaaa5ee3602d5aa14a2dba69e9fb7a0.svg",
     "main.af041410.css.map": "/APITracker/static/css/main.af041410.css.map",
-    "main.c09bceee.js.map": "/APITracker/static/js/main.c09bceee.js.map",
+    "main.ca380eeb.js.map": "/APITracker/static/js/main.ca380eeb.js.map",
     "787.c8674b56.chunk.js.map": "/APITracker/static/js/787.c8674b56.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.af041410.css",
-    "static/js/main.c09bceee.js"
+    "static/js/main.ca380eeb.js"
   ]
 }
